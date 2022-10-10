@@ -1,0 +1,30 @@
+C:\Projects\Chat\Chat.BusinessLogic\bin\Debug\net6.0\Chat.BusinessLogic.deps.json
+C:\Projects\Chat\Chat.BusinessLogic\bin\Debug\net6.0\Chat.BusinessLogic.dll
+C:\Projects\Chat\Chat.BusinessLogic\bin\Debug\net6.0\Chat.BusinessLogic.pdb
+C:\Projects\Chat\Chat.BusinessLogic\bin\Debug\net6.0\Chat.DataAccess.dll
+C:\Projects\Chat\Chat.BusinessLogic\bin\Debug\net6.0\Chat.DataAccess.pdb
+C:\Projects\Chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.csproj.AssemblyReference.cache
+C:\Projects\Chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.AssemblyInfoInputs.cache
+C:\Projects\Chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.AssemblyInfo.cs
+C:\Projects\Chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Projects\Chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.csproj.CopyComplete
+C:\Projects\Chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.dll
+C:\Projects\Chat\Chat.BusinessLogic\obj\Debug\net6.0\refint\Chat.BusinessLogic.dll
+C:\Projects\Chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.pdb
+C:\Projects\Chat\Chat.BusinessLogic\obj\Debug\net6.0\ref\Chat.BusinessLogic.dll
+E:\Сабина, курс\Chat\Chat\Chat.BusinessLogic\bin\Debug\net6.0\Chat.BusinessLogic.deps.json
+E:\Сабина, курс\Chat\Chat\Chat.BusinessLogic\bin\Debug\net6.0\Chat.BusinessLogic.dll
+E:\Сабина, курс\Chat\Chat\Chat.BusinessLogic\bin\Debug\net6.0\Chat.BusinessLogic.pdb
+E:\Сабина, курс\Chat\Chat\Chat.BusinessLogic\bin\Debug\net6.0\Chat.DataAccess.dll
+E:\Сабина, курс\Chat\Chat\Chat.BusinessLogic\bin\Debug\net6.0\Chat.DataAccess.pdb
+E:\Сабина, курс\Chat\Chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.csproj.AssemblyReference.cache
+E:\Сабина, курс\Chat\Chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Сабина, курс\Chat\Chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.AssemblyInfoInputs.cache
+E:\Сабина, курс\Chat\Chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.AssemblyInfo.cs
+E:\Сабина, курс\Chat\Chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Сабина, курс\Chat\Chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.csproj.CopyComplete
+E:\Сабина, курс\Chat\Chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.dll
+E:\Сабина, курс\Chat\Chat\Chat.BusinessLogic\obj\Debug\net6.0\refint\Chat.BusinessLogic.dll
+E:\Сабина, курс\Chat\Chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.pdb
+E:\Сабина, курс\Chat\Chat\Chat.BusinessLogic\obj\Debug\net6.0\ref\Chat.BusinessLogic.dll

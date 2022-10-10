@@ -1,0 +1,76 @@
+C:\Projects\Chat\Chat.Web\bin\Debug\net6.0\appsettings.json
+C:\Projects\Chat\Chat.Web\bin\Debug\net6.0\Chat.Web.exe
+C:\Projects\Chat\Chat.Web\bin\Debug\net6.0\Chat.Web.deps.json
+C:\Projects\Chat\Chat.Web\bin\Debug\net6.0\Chat.Web.runtimeconfig.json
+C:\Projects\Chat\Chat.Web\bin\Debug\net6.0\Chat.Web.dll
+C:\Projects\Chat\Chat.Web\bin\Debug\net6.0\Chat.Web.pdb
+C:\Projects\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projects\Chat\Chat.Web\bin\Debug\net6.0\Npgsql.dll
+C:\Projects\Chat\Chat.Web\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Projects\Chat\Chat.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\Chat\Chat.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\Chat\Chat.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\Chat\Chat.Web\bin\Debug\net6.0\Chat.BusinessLogic.dll
+C:\Projects\Chat\Chat.Web\bin\Debug\net6.0\Chat.DataAccess.dll
+C:\Projects\Chat\Chat.Web\bin\Debug\net6.0\Chat.BusinessLogic.pdb
+C:\Projects\Chat\Chat.Web\bin\Debug\net6.0\Chat.DataAccess.pdb
+C:\Projects\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.csproj.AssemblyReference.cache
+C:\Projects\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.AssemblyInfoInputs.cache
+C:\Projects\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.AssemblyInfo.cs
+C:\Projects\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.csproj.CoreCompileInputs.cache
+C:\Projects\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Chat\Chat.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projects\Chat\Chat.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projects\Chat\Chat.Web\obj\Debug\net6.0\scopedcss\bundle\Chat.Web.styles.css
+C:\Projects\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.csproj.CopyComplete
+C:\Projects\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.dll
+C:\Projects\Chat\Chat.Web\obj\Debug\net6.0\refint\Chat.Web.dll
+C:\Projects\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.pdb
+C:\Projects\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.genruntimeconfig.cache
+C:\Projects\Chat\Chat.Web\obj\Debug\net6.0\ref\Chat.Web.dll
+C:\Projects\Chat\Chat.Web\bin\Debug\net6.0\Humanizer.dll
+C:\Projects\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\appsettings.json
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Chat.Web.exe
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Chat.Web.deps.json
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Chat.Web.runtimeconfig.json
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Chat.Web.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Chat.Web.pdb
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Humanizer.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Npgsql.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Chat.BusinessLogic.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Chat.DataAccess.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Chat.BusinessLogic.pdb
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Chat.DataAccess.pdb
+E:\Сабина, курс\Chat\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.csproj.AssemblyReference.cache
+E:\Сабина, курс\Chat\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Сабина, курс\Chat\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.AssemblyInfoInputs.cache
+E:\Сабина, курс\Chat\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.AssemblyInfo.cs
+E:\Сабина, курс\Chat\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.csproj.CoreCompileInputs.cache
+E:\Сабина, курс\Chat\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\Сабина, курс\Chat\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Сабина, курс\Chat\Chat\Chat.Web\obj\Debug\net6.0\staticwebassets.build.json
+E:\Сабина, курс\Chat\Chat\Chat.Web\obj\Debug\net6.0\staticwebassets.development.json
+E:\Сабина, курс\Chat\Chat\Chat.Web\obj\Debug\net6.0\scopedcss\bundle\Chat.Web.styles.css
+E:\Сабина, курс\Chat\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.csproj.CopyComplete
+E:\Сабина, курс\Chat\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\obj\Debug\net6.0\refint\Chat.Web.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.pdb
+E:\Сабина, курс\Chat\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.genruntimeconfig.cache
+E:\Сабина, курс\Chat\Chat\Chat.Web\obj\Debug\net6.0\ref\Chat.Web.dll

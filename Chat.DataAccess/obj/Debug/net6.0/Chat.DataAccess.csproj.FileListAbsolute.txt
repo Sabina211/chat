@@ -1,0 +1,28 @@
+C:\Projects\Chat\Chat.DataAccess\bin\Debug\net6.0\Chat.DataAccess.deps.json
+C:\Projects\Chat\Chat.DataAccess\bin\Debug\net6.0\Chat.DataAccess.dll
+C:\Projects\Chat\Chat.DataAccess\bin\Debug\net6.0\Chat.DataAccess.pdb
+C:\Projects\Chat\Chat.DataAccess\obj\Debug\net6.0\Chat.DataAccess.csproj.AssemblyReference.cache
+C:\Projects\Chat\Chat.DataAccess\obj\Debug\net6.0\Chat.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Chat\Chat.DataAccess\obj\Debug\net6.0\Chat.DataAccess.AssemblyInfoInputs.cache
+C:\Projects\Chat\Chat.DataAccess\obj\Debug\net6.0\Chat.DataAccess.AssemblyInfo.cs
+C:\Projects\Chat\Chat.DataAccess\obj\Debug\net6.0\Chat.DataAccess.csproj.CoreCompileInputs.cache
+C:\Projects\Chat\Chat.DataAccess\obj\Debug\net6.0\Chat.DataAccess.dll
+C:\Projects\Chat\Chat.DataAccess\obj\Debug\net6.0\refint\Chat.DataAccess.dll
+C:\Projects\Chat\Chat.DataAccess\obj\Debug\net6.0\Chat.DataAccess.pdb
+C:\Projects\Chat\Chat.DataAccess\obj\Debug\net6.0\ref\Chat.DataAccess.dll
+C:\Projects\Chat\Chat.DataAccess\bin\Debug\net6.0\Chat.DataAccess.runtimeconfig.json
+C:\Projects\Chat\Chat.DataAccess\obj\Debug\net6.0\Chat.DataAccess.genruntimeconfig.cache
+E:\Сабина, курс\Chat\Chat\Chat.DataAccess\bin\Debug\net6.0\Chat.DataAccess.deps.json
+E:\Сабина, курс\Chat\Chat\Chat.DataAccess\bin\Debug\net6.0\Chat.DataAccess.runtimeconfig.json
+E:\Сабина, курс\Chat\Chat\Chat.DataAccess\bin\Debug\net6.0\Chat.DataAccess.dll
+E:\Сабина, курс\Chat\Chat\Chat.DataAccess\bin\Debug\net6.0\Chat.DataAccess.pdb
+E:\Сабина, курс\Chat\Chat\Chat.DataAccess\obj\Debug\net6.0\Chat.DataAccess.csproj.AssemblyReference.cache
+E:\Сабина, курс\Chat\Chat\Chat.DataAccess\obj\Debug\net6.0\Chat.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Сабина, курс\Chat\Chat\Chat.DataAccess\obj\Debug\net6.0\Chat.DataAccess.AssemblyInfoInputs.cache
+E:\Сабина, курс\Chat\Chat\Chat.DataAccess\obj\Debug\net6.0\Chat.DataAccess.AssemblyInfo.cs
+E:\Сабина, курс\Chat\Chat\Chat.DataAccess\obj\Debug\net6.0\Chat.DataAccess.csproj.CoreCompileInputs.cache
+E:\Сабина, курс\Chat\Chat\Chat.DataAccess\obj\Debug\net6.0\Chat.DataAccess.dll
+E:\Сабина, курс\Chat\Chat\Chat.DataAccess\obj\Debug\net6.0\refint\Chat.DataAccess.dll
+E:\Сабина, курс\Chat\Chat\Chat.DataAccess\obj\Debug\net6.0\Chat.DataAccess.pdb
+E:\Сабина, курс\Chat\Chat\Chat.DataAccess\obj\Debug\net6.0\Chat.DataAccess.genruntimeconfig.cache
+E:\Сабина, курс\Chat\Chat\Chat.DataAccess\obj\Debug\net6.0\ref\Chat.DataAccess.dll
