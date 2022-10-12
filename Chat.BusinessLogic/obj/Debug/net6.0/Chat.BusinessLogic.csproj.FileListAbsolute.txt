@@ -28,3 +28,33 @@ E:\Сабина, курс\Chat\Chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.Bus
 E:\Сабина, курс\Chat\Chat\Chat.BusinessLogic\obj\Debug\net6.0\refint\Chat.BusinessLogic.dll
 E:\Сабина, курс\Chat\Chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.pdb
 E:\Сабина, курс\Chat\Chat\Chat.BusinessLogic\obj\Debug\net6.0\ref\Chat.BusinessLogic.dll
+C:\Projects\1010sabina\chat\Chat.BusinessLogic\bin\Debug\net6.0\Chat.BusinessLogic.deps.json
+C:\Projects\1010sabina\chat\Chat.BusinessLogic\bin\Debug\net6.0\Chat.BusinessLogic.dll
+C:\Projects\1010sabina\chat\Chat.BusinessLogic\bin\Debug\net6.0\Chat.BusinessLogic.pdb
+C:\Projects\1010sabina\chat\Chat.BusinessLogic\bin\Debug\net6.0\Chat.DataAccess.dll
+C:\Projects\1010sabina\chat\Chat.BusinessLogic\bin\Debug\net6.0\Chat.DataAccess.pdb
+C:\Projects\1010sabina\chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.csproj.AssemblyReference.cache
+C:\Projects\1010sabina\chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\1010sabina\chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.AssemblyInfoInputs.cache
+C:\Projects\1010sabina\chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.AssemblyInfo.cs
+C:\Projects\1010sabina\chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Projects\1010sabina\chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.csproj.CopyComplete
+C:\Projects\1010sabina\chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.dll
+C:\Projects\1010sabina\chat\Chat.BusinessLogic\obj\Debug\net6.0\refint\Chat.BusinessLogic.dll
+C:\Projects\1010sabina\chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.pdb
+C:\Projects\1010sabina\chat\Chat.BusinessLogic\obj\Debug\net6.0\ref\Chat.BusinessLogic.dll
+E:\Сабина, курс\chatnew\chat\Chat.BusinessLogic\bin\Debug\net6.0\Chat.BusinessLogic.deps.json
+E:\Сабина, курс\chatnew\chat\Chat.BusinessLogic\bin\Debug\net6.0\Chat.BusinessLogic.dll
+E:\Сабина, курс\chatnew\chat\Chat.BusinessLogic\bin\Debug\net6.0\Chat.BusinessLogic.pdb
+E:\Сабина, курс\chatnew\chat\Chat.BusinessLogic\bin\Debug\net6.0\Chat.DataAccess.dll
+E:\Сабина, курс\chatnew\chat\Chat.BusinessLogic\bin\Debug\net6.0\Chat.DataAccess.pdb
+E:\Сабина, курс\chatnew\chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.csproj.AssemblyReference.cache
+E:\Сабина, курс\chatnew\chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Сабина, курс\chatnew\chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.AssemblyInfoInputs.cache
+E:\Сабина, курс\chatnew\chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.AssemblyInfo.cs
+E:\Сабина, курс\chatnew\chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Сабина, курс\chatnew\chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.csproj.CopyComplete
+E:\Сабина, курс\chatnew\chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.dll
+E:\Сабина, курс\chatnew\chat\Chat.BusinessLogic\obj\Debug\net6.0\refint\Chat.BusinessLogic.dll
+E:\Сабина, курс\chatnew\chat\Chat.BusinessLogic\obj\Debug\net6.0\Chat.BusinessLogic.pdb
+E:\Сабина, курс\chatnew\chat\Chat.BusinessLogic\obj\Debug\net6.0\ref\Chat.BusinessLogic.dll

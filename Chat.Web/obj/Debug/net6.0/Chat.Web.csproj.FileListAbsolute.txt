@@ -74,3 +74,151 @@ E:\Сабина, курс\Chat\Chat\Chat.Web\obj\Debug\net6.0\refint\Chat.Web.dl
 E:\Сабина, курс\Chat\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.pdb
 E:\Сабина, курс\Chat\Chat\Chat.Web\obj\Debug\net6.0\Chat.Web.genruntimeconfig.cache
 E:\Сабина, курс\Chat\Chat\Chat.Web\obj\Debug\net6.0\ref\Chat.Web.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\appsettings.json
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Chat.Web.exe
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Chat.Web.deps.json
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Chat.Web.runtimeconfig.json
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Chat.Web.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Chat.Web.pdb
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Humanizer.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Npgsql.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Chat.BusinessLogic.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Chat.DataAccess.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Chat.BusinessLogic.pdb
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Chat.DataAccess.pdb
+C:\Projects\1010sabina\chat\Chat.Web\obj\Debug\net6.0\Chat.Web.csproj.AssemblyReference.cache
+C:\Projects\1010sabina\chat\Chat.Web\obj\Debug\net6.0\Chat.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\1010sabina\chat\Chat.Web\obj\Debug\net6.0\Chat.Web.AssemblyInfoInputs.cache
+C:\Projects\1010sabina\chat\Chat.Web\obj\Debug\net6.0\Chat.Web.AssemblyInfo.cs
+C:\Projects\1010sabina\chat\Chat.Web\obj\Debug\net6.0\Chat.Web.csproj.CoreCompileInputs.cache
+C:\Projects\1010sabina\chat\Chat.Web\obj\Debug\net6.0\Chat.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\1010sabina\chat\Chat.Web\obj\Debug\net6.0\Chat.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\1010sabina\chat\Chat.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projects\1010sabina\chat\Chat.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projects\1010sabina\chat\Chat.Web\obj\Debug\net6.0\scopedcss\bundle\Chat.Web.styles.css
+C:\Projects\1010sabina\chat\Chat.Web\obj\Debug\net6.0\Chat.Web.csproj.CopyComplete
+C:\Projects\1010sabina\chat\Chat.Web\obj\Debug\net6.0\Chat.Web.dll
+C:\Projects\1010sabina\chat\Chat.Web\obj\Debug\net6.0\refint\Chat.Web.dll
+C:\Projects\1010sabina\chat\Chat.Web\obj\Debug\net6.0\Chat.Web.pdb
+C:\Projects\1010sabina\chat\Chat.Web\obj\Debug\net6.0\Chat.Web.genruntimeconfig.cache
+C:\Projects\1010sabina\chat\Chat.Web\obj\Debug\net6.0\ref\Chat.Web.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\1010sabina\chat\Chat.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\appsettings.json
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Chat.Web.exe
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Chat.Web.deps.json
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Chat.Web.runtimeconfig.json
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Chat.Web.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Chat.Web.pdb
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Humanizer.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Npgsql.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Chat.BusinessLogic.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Chat.DataAccess.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Chat.BusinessLogic.pdb
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Chat.DataAccess.pdb
+E:\Сабина, курс\chatnew\chat\Chat.Web\obj\Debug\net6.0\Chat.Web.csproj.AssemblyReference.cache
+E:\Сабина, курс\chatnew\chat\Chat.Web\obj\Debug\net6.0\Chat.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Сабина, курс\chatnew\chat\Chat.Web\obj\Debug\net6.0\Chat.Web.AssemblyInfoInputs.cache
+E:\Сабина, курс\chatnew\chat\Chat.Web\obj\Debug\net6.0\Chat.Web.AssemblyInfo.cs
+E:\Сабина, курс\chatnew\chat\Chat.Web\obj\Debug\net6.0\Chat.Web.csproj.CoreCompileInputs.cache
+E:\Сабина, курс\chatnew\chat\Chat.Web\obj\Debug\net6.0\Chat.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\Сабина, курс\chatnew\chat\Chat.Web\obj\Debug\net6.0\Chat.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Сабина, курс\chatnew\chat\Chat.Web\obj\Debug\net6.0\staticwebassets.build.json
+E:\Сабина, курс\chatnew\chat\Chat.Web\obj\Debug\net6.0\staticwebassets.development.json
+E:\Сабина, курс\chatnew\chat\Chat.Web\obj\Debug\net6.0\scopedcss\bundle\Chat.Web.styles.css
+E:\Сабина, курс\chatnew\chat\Chat.Web\obj\Debug\net6.0\Chat.Web.csproj.CopyComplete
+E:\Сабина, курс\chatnew\chat\Chat.Web\obj\Debug\net6.0\Chat.Web.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\obj\Debug\net6.0\refint\Chat.Web.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\obj\Debug\net6.0\Chat.Web.pdb
+E:\Сабина, курс\chatnew\chat\Chat.Web\obj\Debug\net6.0\Chat.Web.genruntimeconfig.cache
+E:\Сабина, курс\chatnew\chat\Chat.Web\obj\Debug\net6.0\ref\Chat.Web.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\System.Web.Mvc.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\System.Web.Razor.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\System.Web.Helpers.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\System.Web.WebPages.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Сабина, курс\chatnew\chat\Chat.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\System.Web.Mvc.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\System.Web.Razor.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\System.Web.Helpers.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\System.Web.WebPages.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Сабина, курс\Chat\Chat\Chat.Web\bin\Debug\net6.0\System.Security.Permissions.dll

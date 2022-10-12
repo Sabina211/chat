@@ -1,10 +1,12 @@
 using Chat.BusinessLogic.Services.Chats;
 using Chat.DataAccess.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Chat.Web.Controllers;
 
 [Route("chats")]
+[Authorize]
 public class ChatsController : ApiControllerBase
 {
     private readonly IChatService _chatService;
